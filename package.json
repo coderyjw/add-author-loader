@@ -1,13 +1,20 @@
 {
   "name": "add-author-loader",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.5",
+  "description": "为所有 js 文件添加一段 author 字符串",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:coderyjw/add-author-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader"
+  ],
+  "author": "yejw6",
   "license": "ISC",
   "dependencies": {
     "dayjs": "^1.11.5"
