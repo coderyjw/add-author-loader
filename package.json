@@ -1,6 +1,6 @@
 {
   "name": "add-author-loader",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "为所有 js 文件添加一段 author 字符串",
   "main": "index.js",
   "scripts": {

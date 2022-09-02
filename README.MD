@@ -7,27 +7,26 @@
 开始前，你需要先下载它
 
 ```console
-npm install --save-dev css-loader
+npm install --save-dev add-author-loader
 ```
 
 or
 
 ```console
-yarn add -D css-loader
+yarn add -D add-author-loader
 ```
 
 or
 
 ```console
-pnpm add -D css-loader
+pnpm add -D add-author-loader
 ```
 
 ```
 
 ```
 
-然后，在 webpack 配置中添加 add-aloader
-
+然后，在 webpack 配置中添加 add-author-aloader
 
 ````javascript
 //webpack.config.js
